@@ -59,7 +59,7 @@ router.get('/', async (req, res) => {
                let GIFTED_MD_TEXT = `
 ╔═══════════════════════
 ║JAMES-MD V1 SESSION IS 
-║UCCESSFULLY
+║SUCCESSFULLY
 ║CONNECTED ⇨⇨⇨
 ╚═══════════════════════
 ◥◣◣◥◣◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥
