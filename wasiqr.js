@@ -59,20 +59,20 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+╔═══════════════════════
+║JAMES-MD V1 SESSION IS 
+║SUCCESSFULLY
+║CONNECTED ⇨⇨⇨
+╚═══════════════════════
+◥◣◣◥◣◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥
+❶ || 𝐜𝐫𝐞𝐚𝐭𝐨𝐫 = 𝐉𝐀𝐌𝐄𝐒
+◥◣◣◥◣◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vanxv5pB4hdUQlTg7Q2J
+◥◣◣◥◣◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+Wanna talk to me  = https://wa.me/255628470507
+◥◣◣◥◣◣◥◣◥◣◥◣◥◣◥◣◥◣◥◣◥
+2024-2099 ᴶᴬᴹᴱˢ
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
